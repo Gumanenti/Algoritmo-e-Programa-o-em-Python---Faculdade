@@ -1,0 +1,5 @@
+pzm5075;hatch;fiat;uno;1997;4;flex;branco
+xos4938;sedan;ford;fiesta;2010;4;alcool;cinza
+eli3020;suv;ford;ka;2001;2;flex;verde
+ola6070;sedan;chevrolet;vectra;2011;4;gasolina;preto
+hel5000;hatch;fiat;argo;2019;4;flex;vermelho
